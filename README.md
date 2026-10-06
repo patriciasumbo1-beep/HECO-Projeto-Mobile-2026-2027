@@ -122,16 +122,16 @@ Como não existe código ou protótipo funcional disponível no repositório, n�
 
 A tabela seguinte reproduz os requisitos funcionais definidos para o projecto, assinalando que a sua implementação não pode ser verificada no estado actual do repositório.
 
-| Código | Requisito | Estado verificável no repositório |
-|:---|:---|:---|
-| RF01 | O utilizador deve poder criar uma conta e iniciar sessão. | Não confirmado: não existe código de autenticação disponível. |
-| RF02 | O utilizador deve poder pesquisar contentores próximos e disponíveis. | Não confirmado: não existe implementação de mapa ou pesquisa disponível. |
-| RF03 | O utilizador deve poder reportar o estado de um contentor. | Não confirmado: não existe código da aplicação disponível. |
-| RF04 | O utilizador deve poder consultar o histórico dos seus próprios reportes. | Não confirmado: não existe código ou base de dados disponível. |
-| RF05 | O operador deve poder visualizar contentores por estado. | Não confirmado: não existe interface ou serviço disponível. |
-| RF06 | O operador deve poder marcar um contentor como recolhido. | Não confirmado: não existe implementação disponível. |
-| RF07 | O sistema deve notificar os operadores quando um contentor estiver cheio. | Não confirmado: não existem serviços de notificação ou configuração disponível. |
-| RF08 | O sistema deve estimar a previsão de enchimento com base no histórico. | Não confirmado: não existe algoritmo ou implementação disponível. |
+| Código | Requisito                                                                 | Estado verificável no repositório                                               |
+| :----- | :------------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
+| RF01   | O utilizador deve poder criar uma conta e iniciar sessão.                 | Não confirmado: não existe código de autenticação disponível.                   |
+| RF02   | O utilizador deve poder pesquisar contentores próximos e disponíveis.     | Não confirmado: não existe implementação de mapa ou pesquisa disponível.        |
+| RF03   | O utilizador deve poder reportar o estado de um contentor.                | Não confirmado: não existe código da aplicação disponível.                      |
+| RF04   | O utilizador deve poder consultar o histórico dos seus próprios reportes. | Não confirmado: não existe código ou base de dados disponível.                  |
+| RF05   | O operador deve poder visualizar contentores por estado.                  | Não confirmado: não existe interface ou serviço disponível.                     |
+| RF06   | O operador deve poder marcar um contentor como recolhido.                 | Não confirmado: não existe implementação disponível.                            |
+| RF07   | O sistema deve notificar os operadores quando um contentor estiver cheio. | Não confirmado: não existem serviços de notificação ou configuração disponível. |
+| RF08   | O sistema deve estimar a previsão de enchimento com base no histórico.    | Não confirmado: não existe algoritmo ou implementação disponível.               |
 
 ## Requisitos não funcionais
 
@@ -180,33 +180,33 @@ A estrutura existente está organizada por áreas de documentação e materiais 
 ├── 00_Identificacao/
 │   └── info.md
 ├── 01_Memoria_Descritiva/
-│   └── .gitkeep
+│
 ├── 02_Imagens/
-│   └── .gitkeep
+│
 ├── 03_Videos/
-│   └── .gitkeep
+│
 ├── 04_Documentacao_Tecnica/
-│   └── .gitkeep
+│
 ├── 05_Artefactos/
-│   └── .gitkeep
+│
 ├── 06_Dados_Investigacao/
-│   └── .gitkeep
+│
 └── 07_Autorizacoes/
-    └── .gitkeep
+
 ```
 
 ### Descrição das pastas
 
-| Pasta | Conteúdo actualmente disponível |
-|:---|:---|
-| `00_Identificacao` | Documento `info.md` com a proposta do projecto, os objectivos, os fluxos previstos e os requisitos. |
-| `01_Memoria_Descritiva` | Pasta reservada para a memória descritiva; contém apenas `.gitkeep`. |
-| `02_Imagens` | Pasta reservada para imagens; contém apenas `.gitkeep`. |
-| `03_Videos` | Pasta reservada para vídeos; contém apenas `.gitkeep`. |
-| `04_Documentacao_Tecnica` | Pasta reservada para documentação técnica; contém apenas `.gitkeep`. |
-| `05_Artefactos` | Pasta reservada para artefactos do projecto; contém apenas `.gitkeep`. |
-| `06_Dados_Investigacao` | Pasta reservada para dados de investigação; contém apenas `.gitkeep`. |
-| `07_Autorizacoes` | Pasta reservada para autorizações; contém apenas `.gitkeep`. |
+| Pasta                     | Conteúdo actualmente disponível                                                                     |
+| :------------------------ | :-------------------------------------------------------------------------------------------------- |
+| `00_Identificacao`        | Documento `info.md` com a proposta do projecto, os objectivos, os fluxos previstos e os requisitos. |
+| `01_Memoria_Descritiva`   | Pasta reservada para a memória descritiva.                                                          |
+| `02_Imagens`              | Pasta reservada para imagens.                                                                       |
+| `03_Videos`               | Pasta reservada para vídeos.                                                                        |
+| `04_Documentacao_Tecnica` | Pasta reservada para documentação técnica.                                                          |
+| `05_Artefactos`           | Pasta reservada para artefactos do projecto.                                                        |
+| `06_Dados_Investigacao`   | Pasta reservada para dados de investigação.                                                         |
+| `07_Autorizacoes`         | Pasta reservada para autorizações.                                                                  |
 
 ## Instalação e execução
 
@@ -225,8 +225,7 @@ Não foi encontrada configuração técnica que necessite de ser aplicada. O rep
 O repositório encontra-se numa fase inicial de organização documental. Inclui:
 
 - a proposta de projecto em `00_Identificacao/info.md`;
-- pastas preparadas para documentação, imagens, vídeos, artefactos, dados de investigação e autorizações;
-- ficheiros `.gitkeep` utilizados para manter as pastas vazias no repositório.
+- pastas preparadas para documentação, imagens, vídeos, artefactos, dados de investigação e autorizações.
 
 ### Limitações conhecidas
 
@@ -245,9 +244,9 @@ A proposta menciona um plano de trabalho de 14 semanas, mas o repositório não 
 
 ## Autores
 
-- Humaira Farage Bemat
-- Margarida Patrícia Sumbo
-- Tiago João Hora Inácio
+- Humaira Farage Bemat (20250997)
+- Margarida Patrícia Sumbo (20252385)
+- Tiago João Hora Inácio (20252137)
 
 ## Contexto académico
 
