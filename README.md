@@ -4,8 +4,6 @@ O **H-ECO** é um projeto académico de uma aplicação móvel destinada a melho
 
 A proposta centra-se no reporte do estado de enchimento dos contentores, através de um código QR ou do código identificador do contentor, com recurso a fotografia e localização GPS para reduzir reportes incorretos. Quando um contentor é identificado como cheio, o sistema deverá informar as equipas responsáveis pela recolha.
 
-> **Estado de repositório:** neste momento, o repositório contém a documentação inicial e a estrutura de organização do projeto. Não foram encontrados código-fonte, ficheiros de configuração de uma aplicação, dependências ou instruções de execução de um protótipo no conteúdo actualmente disponível.
-
 ## Índice
 
 - [Problema e contexto](#problema-e-contexto)
