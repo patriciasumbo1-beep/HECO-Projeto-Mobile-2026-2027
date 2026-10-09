@@ -1,6 +1,6 @@
-# H-ECO: Reporte Cidadão do Estado de Contentores de Lixo
+# H-eco: Reporte Cidadão do Estado de Contentores de Lixo
 
-O **H-ECO** é um projeto académico de uma aplicação móvel destinada a melhorar a comunicação entre os cidadãos e as equipas municipais responsáveis pela recolha de resíduos urbanos.
+O **H-eco** é um projeto académico de uma aplicação móvel destinada a melhorar a comunicação entre os cidadãos e as equipas municipais responsáveis pela recolha de resíduos urbanos.
 
 A proposta centra-se no reporte do estado de enchimento dos contentores, através de um código QR ou do código identificador do contentor, com recurso a fotografia e localização GPS para reduzir reportes incorretos. Quando um contentor é identificado como cheio, o sistema deverá informar as equipas responsáveis pela recolha.
 
@@ -24,13 +24,13 @@ A proposta centra-se no reporte do estado de enchimento dos contentores, atravé
 
 A gestão de resíduos urbanos pode ser dificultada pela existência de contentores cheios, pela acumulação de lixo no espaço público e pela falta de informação atempada para as equipas de recolha.
 
-A proposta do H-ECO refere que, entre janeiro e meados de setembro de 2025, o Portal da Queixa registou 266 reclamações relacionadas com higiene urbana em Portugal, correspondendo a um aumento de 10 % face ao ano anterior. As reclamações incidiam sobretudo em lixo acumulado, contentores cheios e recolhas efectuadas tardiamente.
+A proposta do H-eco refere que, entre janeiro e meados de setembro de 2025, o Portal da Queixa registou 266 reclamações relacionadas com higiene urbana em Portugal, correspondendo a um aumento de 10 % face ao ano anterior. As reclamações incidiam sobretudo em lixo acumulado, contentores cheios e recolhas efectuadas tardiamente.
 
 O projecto procura responder a este problema através de um canal de comunicação mais directo, orientado para uma situação concreta: identificar o estado de um contentor e transmitir essa informação às equipas responsáveis.
 
 ## Objetivos
 
-Com base na proposta disponível no repositório, os principais objectivos do H-ECO são:
+Com base na proposta disponível no repositório, os principais objectivos do H-eco são:
 
 - melhorar a comunicação entre os cidadãos e as equipas municipais de recolha;
 - facilitar a identificação de contentores cheios;
@@ -54,7 +54,7 @@ Trabalhador de campo das equipas de higiene urbana que consulta os contentores s
 
 ## Funcionalidades previstas
 
-As funcionalidades abaixo fazem parte da proposta funcional do H-ECO. Não devem ser interpretadas como funcionalidades já confirmadas por código neste repositório.
+As funcionalidades abaixo fazem parte da proposta funcional do H-eco. Não devem ser interpretadas como funcionalidades já confirmadas por código neste repositório.
 
 - criação de conta e autenticação;
 - identificação de contentores através de código QR ou código do contentor;
@@ -72,7 +72,7 @@ As funcionalidades abaixo fazem parte da proposta funcional do H-ECO. Não devem
 
 ## Vantagem proposta
 
-O H-ECO propõe um fluxo dedicado, rápido e verificado sem depender da instalação de sensores físicos em todos os contentores. A combinação de código identificador, fotografia e localização pretende reduzir reportes falsos, mantendo uma abordagem com menor dependência de equipamento instalado no terreno.
+O H-eco propõe um fluxo dedicado, rápido e verificado sem depender da instalação de sensores físicos em todos os contentores. A combinação de código identificador, fotografia e localização pretende reduzir reportes falsos, mantendo uma abordagem com menor dependência de equipamento instalado no terreno.
 
 Esta é uma vantagem prevista no conceito do projecto e não um resultado medido ou validado através do código actualmente disponível.
 
@@ -82,7 +82,7 @@ Esta é uma vantagem prevista no conceito do projecto e não um resultado medido
 
 O fluxo descrito na proposta é o seguinte:
 
-1. O cidadão abre a aplicação H-ECO.
+1. O cidadão abre a aplicação H-eco.
 2. Introduz o código do contentor ou lê o código QR afixado no mesmo.
 3. A aplicação recolhe, quando disponível, a localização GPS e verifica a proximidade ao contentor.
 4. O cidadão tira uma fotografia do contentor.
